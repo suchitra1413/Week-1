@@ -44,7 +44,8 @@ The dataset was split chronologically (80% Train, 20% Test) to maintain the inte
 
 ### Performance Metrics (On Test Set)
 
-| Metric | Random Forest (RF) | 
+| **Metric** | **Random Forest** **(RF)** | 
+
 | **R^2** | 0.8272 |
 | **Mean Absolute Error (MAE)** | 0.0737 | 
 
